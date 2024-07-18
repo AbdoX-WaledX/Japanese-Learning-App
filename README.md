@@ -17,10 +17,3 @@ A Japanese learning app built with Flutter.
   <img src="https://github.com/user-attachments/assets/254cbacd-3025-4507-8c41-0f3acf90be44" alt="PhrasesPage" width="150"/>
 </p>
 
-## Getting Started
-
-To run this app, clone the repository and run the following commands:
-
-```sh
-flutter pub get
-flutter run
