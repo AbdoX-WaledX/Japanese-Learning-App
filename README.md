@@ -1,16 +1,24 @@
-# toku_learning_app
+# Japanese Learning App
 
-A new Flutter project.
+A Japanese learning app built with Flutter.
+
+## Features
+- Learn Japanese numbers, family members, colors, and phrases.
+- Audio pronunciation for each item.
+- Beautiful and user-friendly interface.
+
+## Screenshots
+
+![Home Screen](screenshots/home_screen.png)
+![Numbers Screen](screenshots/numbers_screen.png)
+![Family Members Screen](screenshots/family_members_screen.png)
+![Colors Screen](screenshots/colors_screen.png)
+![Phrases Screen](screenshots/phrases_screen.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app, clone the repository and run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+flutter pub get
+flutter run
